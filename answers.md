@@ -1,0 +1,1 @@
+1. Decide new statements based on if both of the keyphrases are in the string or either one when both are there. The response would find kewords in them that were not meant to be there, for example smothered has mother. 
